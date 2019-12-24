@@ -8,18 +8,13 @@
 
 import UIKit
 import LXCategoryKit
-import CTMediator
+import NVActivityIndicatorView
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
 //        let testObj = TestObject();
-//        testObj.onTest()
-        
-
     }
-
-
 }
 

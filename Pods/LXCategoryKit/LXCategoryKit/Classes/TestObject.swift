@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TestObject: NSObject {
+public class TestObject: NSObject {
     func onTest(){
         print("测试成");
     }
